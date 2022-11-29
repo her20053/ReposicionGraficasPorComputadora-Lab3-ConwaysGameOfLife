@@ -1,0 +1,13 @@
+Lab 3: Conway’s Game Of Life
+
+Jose Andres Hernandez Guerra 20053
+
+Para ejecutar el programa porfavor abrir el directorio y ejecutar el modulo de la siguiente manera:
+
+python .\main.py parametroWith parametroHeight parametroTam
+
+por ejemplo:
+
+python .\main.py 800 800 25
+
+Dependiendo de la resolucion que se desee tener en el programa.
